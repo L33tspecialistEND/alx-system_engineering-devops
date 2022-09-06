@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="/home/usr/bin:/home/usr/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:::::/hello"; ls -l $PATH | wc -l
+ls -l PATH="/home/usr/bin:/home/usr/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:::::/hello" | wc -l
